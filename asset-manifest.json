@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DEEB-WEB/static/css/main.cda4eb12.css",
+    "main.js": "/DEEB-WEB/static/js/main.3f3c3eab.js",
+    "static/media/pexels-cottonbro-4769464.jpg": "/DEEB-WEB/static/media/pexels-cottonbro-4769464.849808036ba4baf4e0d4.jpg",
+    "static/media/Web-design.jpg": "/DEEB-WEB/static/media/Web-design.e096a92c8d762f352c5a.jpg",
+    "static/media/Cp_g920Aq9BVwJ5lxM_q7..oop2.png": "/DEEB-WEB/static/media/Cp_g920Aq9BVwJ5lxM_q7..oop2.0712907fba9750506137.png",
+    "static/media/carousel-2.jpg": "/DEEB-WEB/static/media/carousel-2.2b666084a395a2e15695.jpg",
+    "static/media/cimg.png": "/DEEB-WEB/static/media/cimg.fbd0a58117af59da2bc7.png",
+    "static/media/carousel-1.jpg": "/DEEB-WEB/static/media/carousel-1.87aa4cd1be54e1dc336f.jpg",
+    "static/media/carousel-3.jpg": "/DEEB-WEB/static/media/carousel-3.4f31e8f6224547c4ccc2.jpg",
+    "static/media/about.jpg": "/DEEB-WEB/static/media/about.c968c7b13a6395432a44.jpg",
+    "static/media/page-header.jpg": "/DEEB-WEB/static/media/page-header.5a5977460022702830b7.jpg",
+    "static/media/bg_updated.svg": "/DEEB-WEB/static/media/bg_updated.b222cbbd19a825d6983d6a1b1ef4160e.svg",
+    "static/media/1628644950-javascript.avif": "/DEEB-WEB/static/media/1628644950-javascript.bc2d157ea351fdc7869f.avif",
+    "static/media/avatar_modified.svg": "/DEEB-WEB/static/media/avatar_modified.79217fdcfed1c7c43ffd4d68acc83721.svg",
+    "index.html": "/DEEB-WEB/index.html",
+    "main.cda4eb12.css.map": "/DEEB-WEB/static/css/main.cda4eb12.css.map",
+    "main.3f3c3eab.js.map": "/DEEB-WEB/static/js/main.3f3c3eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda4eb12.css",
+    "static/js/main.3f3c3eab.js"
+  ]
+}
